@@ -11,6 +11,6 @@ def sum(array)
   total = 0
   array.each do |number|
     total += number
-    return total
   end
+  return total
 end
